@@ -1,0 +1,44 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color:#CDB380;
+}
+h1{
+  font-size:25px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color:white;
+  text-align:center;
+  margin:0px 0px 15px 0px;
+}
+#calc-border{
+  background:#036564;/*testing*/
+  width:382px;
+  margin:25px auto;
+  padding: 25px;
+  border-radius:5px;
+  box-shadow: 1px; 
+}
+#num-box{
+  background: lightgrey;
+  border-radius:5px;
+  height:50px;
+  line-height:50px;
+  text-align:right;
+  padding-right:5px;
+  margin-bottom:25px;
+  font-weight:bold;
+  font-size:25px;
+}
+
+.btn{
+  background:lightgrey;
+  width:80px;
+  height:50px;
+  margin-bottom:4px;
+  font-weight:bold;
+  font-size:20px;
+  color:#036564;
+}
+
+footer{
+  text-align:center;
+}
