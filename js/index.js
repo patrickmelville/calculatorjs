@@ -1,5 +1,8 @@
-//update CE so that it takes off only one digit from the most recent entry!!!
-//update all operator additions so that it doesnt add consecutive ones, but replaces the last?
+//Using Jquery to control button elements and keyboard input to simulate a simple calculator
+
+//TO-DO List--------------------
+//update CE so that it takes off only one digit from the most recent entry instead of the entire element
+//TO-DO List--------------------
 
 //KEYBOARD INPUT LIST ( these names coorispond with div IDs on page)
 var KEYLIST = {
